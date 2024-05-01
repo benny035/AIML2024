@@ -3,3 +3,5 @@
 
 #ASSIGNMENT6:https://github.com/benny035/AIML2024/blob/main/keerthy.ipynb
 #ASSIGNMENT7:https://github.com/benny035/AIML2024/commit/2619cb643045cbc12f3e67d89c841d36597879f7
+
+# PROJECT:https://github.com/benny035/AIML2024/blob/main/company%20bankruptcy%20predicition.ipynb
